@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Animes" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling 2 Ep.01
-https://dai.ly/k7Ehb4th5uIEwaCRY8Q
+https://animeflix.blog/Animes/Letra-S/Solo%20Leveling%202/Dub/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Animes" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling 2 Ep.02
 https://animeflix.blog/Animes/Letra-S/Solo%20Leveling%202/Dub/02.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Animes" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling 2 Ep.03
